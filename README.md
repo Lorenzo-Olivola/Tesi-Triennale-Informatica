@@ -3,6 +3,6 @@ Repository github per il progetto della mia Tesi triennale di informatica. La te
 ----------------------------------------------------------
 In questo repositori troverati:
 - Tesi Triennale
-- Codice utilizzato nel Progetto
+- Versione finale del codice utilizzato nel Progetto
 ----------------------------------------------------------
 Per dettagli maggiori cercare direttamente all'interno della tesi
